@@ -20,7 +20,7 @@ img {
 @font-face {
   font-family: "lato";
   font-weight: 400;
-  src: url("../Lato-Regular.ttf") format("truetype");
+  src: url("../lato.ttf") format("truetype");
   font-display: swap;
 }
 
