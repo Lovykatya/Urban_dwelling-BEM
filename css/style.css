@@ -20,7 +20,7 @@ img {
 @font-face {
   font-family: "lato";
   font-weight: 400;
-  src: url("../lato.ttf") format("truetype");
+  src: url("../Lato-Regular.ttf") format("truetype");
   font-display: swap;
 }
 
@@ -268,7 +268,6 @@ img {
     align-self: left;
     position: absolute;
     z-index: 2;
-    padding: 12px 0 12px 0;
     top: 40px;
     left: 0;
   }
